@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Shail's CodeWars stats](https://github-readme-stats.vercel.app/api?username=dynamitec&show_icons=true&theme=dark)
+![Shail's GitHub stats](https://github-readme-stats.vercel.app/api?username=dynamitec&show_icons=true&theme=dark)
+
+[![Shail's Codewars Stats](https://github.r2v.ch/codewars?user=DynamiteC&name=true&top_languages=true)](https://www.codewars.com/users/DynamiteC)
 
 <!--
 **DynamiteC/DynamiteC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
