@@ -7,7 +7,7 @@
 Passionate about crafting elegant solutions and orchestrating seamless workflows. Currently, I am diving into automated video highlights using Python, OpenCV, and FFmpeg.
 
 📧 Email: connect@xn--uech8c.com
-📱 Twitter: @shethshails | 💼 GitHub: @dynamitec
+📱 Twitter: @shethshails | 💼 GitHub: @DynamiteC
 
 
 <!-- ![Shail's GitHub stats](https://github-readme-stats.vercel.app/api?username=dynamitec&show_icons=true&theme=dark) -->
