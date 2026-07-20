@@ -1,8 +1,8 @@
 ### Shail Sheth
 
-What pulls me in is taking a slow, manual, repetitive process and turning it into something that runs on its own. The interesting part was never the tool. It is understanding a problem well enough that a machine can carry the tedious part and a person gets their time back.
+What pulls me in is the seam between the code and the live systems it runs on. The interesting problem is never the feature. It is what happens when real traffic hits it: the query that goes slow at the worst possible moment, the broker that turns into a single point of failure during a spike, the data that has to stay queryable long after it goes cold.
 
-Right now that curiosity is pointed at automated video highlights: getting code to watch footage and pull out the moments worth keeping.
+Lately that curiosity has pointed at real-time analytics: getting large volumes of live data to land fast and stay fast enough to query while it is still arriving.
 
 - Email: connect@xn--uech8c.com
 - Twitter: @shethshails
